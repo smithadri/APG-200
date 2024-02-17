@@ -10,6 +10,6 @@ Potentiometers :
 https://www.youtube.com/watch?v=hcm5H6f8MI8
 
 # Circuit of the signal inverter based on the schematics of the PG-200
-![alt text](https://github.com/deboxta/APG-200/blob/main/Diagram/circuit%2B%2B.png)
+![alt text](https://github.com/deboxta/APG-200/blob/master/Diagram/circuit%2B%2B.png)
 
 Made on https://www.circuit-diagram.org/editor/
