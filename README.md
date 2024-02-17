@@ -10,3 +10,4 @@ Potentiometers :
 https://www.youtube.com/watch?v=hcm5H6f8MI8
 
 ![alt text](https://github.com/deboxta/APG-200/blob/main/Diagram/circuit%2B%2B.png)
+Made on https://www.circuit-diagram.org/editor/
